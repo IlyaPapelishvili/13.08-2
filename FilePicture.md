@@ -1,4 +1,4 @@
-
+[![gitlocalized ](https://gitlocalize.com/repo/5199/whole_project/badge.svg)](https://gitlocalize.com/repo/5199/whole_project?utm_source=badge)
 
 First Header  | Second Header
 ------------- | -------------
